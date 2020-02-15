@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b273b"],{"23bf":function(e,t,n){"use strict";n.r(t);var s=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[e._v("*** INTEGRANTES ***")])},a=[],c=n("5530"),u=n("2f62"),i={methods:Object(c["a"])({},Object(u["b"])(["SET_TITLE"]),{setParams:function(){this.SET_TITLE("CV's de los integrantes del Juzgado")}}),created:function(){this.setParams()}},o=i,r=n("2877"),l=Object(r["a"])(o,s,a,!1,null,null,null);t["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0b273b.4fd2633d.js.map
